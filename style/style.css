@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff:wght@500&family=Roboto:wght@700&family=Silkscreen&display=swap');
+
+/*
+font-family: 'DynaPuff', cursive;
+font-family: 'Roboto', sans-serif;
+font-family: 'Silkscreen', cursive;
+*/
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background-image: linear-gradient(to bottom, #000000, #3b3b3b, #777777, #b9b9b9, #ffffff);
+    min-height: 100vh;
+    overflow-x: hidden;
+}
+
+header {
+    display: inline-block;
+    position: relative;
+    margin-left: 38%;
+    margin-top: 10px;
+    width: 300px;
+    height: 80px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+header .symbol {
+    text-align: center;
+    position: absolute;
+    margin-top: 2.5%;
+    left: 37%;
+}
+
+header .logo-text{
+    text-align: center;
+    position: absolute;
+    margin-top: 15%;
+    left: 13%;
+
+}
+
+main .first{
+    display: flex;
+    background-color: white;
+    border-radius: 20px;
+    margin-top: 0.5%;
+    margin-left: 12px;
+    margin-right: 12px;
+}
+
+main .content-first{
+    display: flex;
+    flex-direction: column;
+    padding: 6px;
+}
+
