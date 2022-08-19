@@ -1,6 +1,6 @@
 > Status: developing ⚠️
 
-### its a website to learn about an anime called Fairy Tail and about our characters
+### its a website to learn about an anime called Fairy Tail and about your characters
 
 ## Some features is:
 
